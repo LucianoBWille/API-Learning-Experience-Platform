@@ -24,10 +24,12 @@ The project's main objective is to create a register of questions (from students
 
 The following technologies were used to develop the project:
 - [NestJS](https://github.com/nestjs/nest): Base API Framework
+- Typescript: used programming language
 - Sequelize: library for database connection
 - MySQL: database technology
 - Swagger: API documentation
 - Jest: to perform application tests
+- Heroku: API host
 
 Deployed API link:
 https://learning-experience-patform.herokuapp.com
